@@ -1,17 +1,17 @@
 
 1. Go to [vercel.com](https://vercel.com) and login.
 2. Go to ACCOUNT SETTING.
-![](./images/Screenshot%202024-08-24%20at%2012.41.51 PM.png)
+![](/images/Screenshot%202024-08-24%20at%2012.41.51 PM.png)
 
 3.  Go to TOKEN.
 
-![](./images/Screenshot%202024-08-24%20at%2012.48.03 PM.png)
+![](/images/Screenshot%202024-08-24%20at%2012.48.03 PM.png)
 
 4. Create a token with TOKEN NAME, SCOPE & EXPIRATION.
 
 5. Go to [github.com](https://github.com) login. Create new repo and then moved to Actions.
 
-![](./images/Screenshot%202024-08-24%20at%2012.52.26 PM.png)
+![](/images/Screenshot%202024-08-24%20at%2012.52.26 PM.png)
 
 6. Create a file with main.yml
 
@@ -62,7 +62,7 @@ jobs:
 add code and save it.
 8. Go to the Setting section in GitHub.com
 
-![](./images/Screenshot%202024-08-24%20at%2012.52.26 PM.png)
+![](/images/Screenshot%202024-08-24%20at%2012.52.26 PM.png)
 
 9. Click on SECRETS AND VARIABLES > ACTIONS
 
