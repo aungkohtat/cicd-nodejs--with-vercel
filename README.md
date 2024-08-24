@@ -11,9 +11,7 @@ This repository demonstrates a Continuous Integration and Continuous Deployment 
 - [Usage](#usage)
 - [CI/CD Pipeline Details](#cicd-pipeline-details)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
+- 
 ## Introduction
 
 This project showcases a CI/CD pipeline for a Node.js application. The pipeline is built using GitHub Actions for continuous integration and Vercel for continuous deployment. This setup allows automatic testing and deployment of the application whenever changes are pushed to the repository.
