@@ -145,4 +145,4 @@ jobs:
 
 
 # Creating a CI/CD Pipeline with GitHub Actions and Vercel: A Step-by-Step Guide
-[Creating a CI/CD Pipeline with GitHub Actions and Vercel: A Step-by-Step Guide](./readme01.md)
+[Creating a CI/CD Pipeline with GitHub Actions and Vercel: A Step-by-Step Guide](./images/readme01.md)
